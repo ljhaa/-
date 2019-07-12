@@ -1,0 +1,4 @@
+pos  : 表  pos_gyl_food   每天定时从外部拉取销售数据     用来做成本报表
+		pos_syn_data_record 同步状态数据表
+		pos_syn_data_type  同步数据类型表
+		
